@@ -9,7 +9,7 @@
     "ts:downloadingpg": "正在下载...（%d%%）",
     "ts:downloadfailed": "无法下载远程资源。请微信关注公众号 思牛逼 获取解决方案！",
 
-    "ts:gameres_locate_title": "⚠ 如果你能看到右侧的 X ，请直接点击 X 开始游戏！！！",
+    "ts:gameres_locate_title": "⚠ 如果你能看到右侧的 X ，请直接点击 X 开始游戏！！！OK",
     "ts:gameres_import_desc": "如果你需要游玩MOD，那么你必须要导入网页红井的完全体副本。",
     "ts:gameres_drop_desc": "将所需的游戏文件拖放到此处",
     "ts:gameres_or": "或者",
